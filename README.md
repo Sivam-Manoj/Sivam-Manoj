@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sivam-Manoj
-- 👀 I’m interested in React js,Next js,Rust,Tauri,C#.Net,latex 
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in MERN Stack 
+- 💞️ I’m looking for internship 
 - 📫 How to reach me manom8193@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm self motivated
