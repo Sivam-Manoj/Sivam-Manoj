@@ -5,6 +5,9 @@ I am a passionate Software Engineer with a strong focus on the **MERN stack**, *
 
 ## 🌟 Interests
 - **MERN Stack Development**
+- **Nextjs Development**
+- **Nestjs Development**
+- **Typescript and Javascript(es7+) Development**
 - Asynchronous programming
 - Full-stack applications
 - Open-source contributions
