@@ -1,29 +1,57 @@
-# 👋 Hello, I'm Sivam Manoj!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sivam Manoj's Profile</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="profile-container">
+    <header>
+      <h1>👋 Hello, I'm <span>Sivam Manoj!</span></h1>
+      <p>A passionate Software Engineer focused on the <strong>MERN stack</strong>, <strong>Next.js</strong>, and <strong>Nest.js</strong>.</p>
+    </header>
 
-## 🚀 About Me
-I am a passionate Software Engineer with a strong focus on the **MERN stack**, **Next.js**, and **Nest.js**. I thrive on building innovative web applications and continuously enhancing my skills. My tech stack includes **TypeScript** and various other technologies that help me deliver efficient and robust solutions.
+    <section class="about">
+      <h2>🚀 About Me</h2>
+      <p>I thrive on building innovative web applications and continuously enhancing my skills with technologies like <strong>TypeScript</strong> for efficient and robust solutions.</p>
+    </section>
 
-## 🌟 Interests
-- **MERN Stack Development**
-- **Nextjs Development**
-- **Nestjs Development**
-- **Typescript and Javascript(es7+) Development**
-- Asynchronous programming
-- Full-stack applications
-- Open-source contributions
+    <section class="interests">
+      <h2>🌟 Interests</h2>
+      <ul>
+        <li>MERN Stack Development</li>
+        <li>Next.js Development</li>
+        <li>Nest.js Development</li>
+        <li>Typescript & Javascript (ES7+) Development</li>
+        <li>Asynchronous programming</li>
+        <li>Full-stack applications</li>
+        <li>Open-source contributions</li>
+      </ul>
+    </section>
 
-## 💼 Current Role
-Currently, I am working as a Software Engineer at **SPM**, where I tackle complex challenges and create efficient solutions.
+    <section class="current-role">
+      <h2>💼 Current Role</h2>
+      <p>Software Engineer at <strong>SPM</strong>, tackling complex challenges and creating efficient solutions.</p>
+    </section>
 
-## 🛠️ Open Source Projects
-- [Biezor](https://www.npmjs.com/package/biezor): A middleware package for handling asynchronous errors in Express.js.
+    <section class="projects">
+      <h2>🛠️ Open Source Projects</h2>
+      <a href="https://www.npmjs.com/package/biezor" target="_blank" class="project-link">Biezor: Middleware for handling asynchronous errors in Express.js</a>
+    </section>
 
-## 📫 Get in Touch
-Feel free to reach out to me via [email](mailto:manom8193@gmail.com) for collaboration or networking!
+    <section class="contact">
+      <h2>📫 Get in Touch</h2>
+      <p>Reach out to me via <a href="mailto:manom8193@gmail.com" class="email-link">email</a> for collaboration or networking!</p>
+    </section>
 
-## 😄 Fun Fact
-I'm **self-motivated** and always eager to learn new technologies and improve my skills!
-
----
-
-![Sivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivam-Manoj&show_icons=true&theme=radical)
+    <footer>
+      <p>😄 Fun Fact: I'm <strong>self-motivated</strong> and always eager to learn new technologies and improve my skills!</p>
+      <div class="stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sivam-Manoj&show_icons=true&theme=radical" alt="Sivam's GitHub Stats">
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
